@@ -1,0 +1,34 @@
+paulPathProj: 
+  debug: 'RustCwater-agent'
+  parameters ->> operation
+    addEnableStylestring: false
+    executor_defaultPolicy = 'artifact'
+    iter_default = 'artifact'
+    if execure_target && iter_default == 'floram':
+      current_localized = 'artifact'
+project:
+  name: "rustchain-agent"
+  description: "RustChain Automatic service to correctly play an app module."
+  parameters:
+    realPath: 'real/'
+    creadType: 'updout'
+    initialized: your-active-token
+    type: 'windows'
+    cached: true
+    includeSpecialInfo: 'https://github.com/senshmon/submit-token/display'
+    includeSpecialInstance: 'platform-apps'
+    hightwatchPublished: true
+supporteds:
+  bytes: about me
+departments:
+  app:
+    name: "rustchain-agent"
+    description: "Real project that specially plays the rustchain call controlling."
+    separated: true
+    ezit: true
+    address: 'https://directory.rustchain.com/resources/system/api/realmap/'
+    departments:
+      name: '{unpick.com }'
+path:
+    name: 'test/'
+param: 'real/'
